@@ -17,3 +17,20 @@ Analyze sales trends and regional performance.
 - Power BI
 - DAX
 - Power Query
+# Power BI Portfolio
+
+## Skills
+- Power BI Desktop
+- DAX
+- Data Modeling
+- Power Query
+
+## Projects
+- Sales Analytics Dashboard
+- HR Analytics Dashboard
+- Finance Dashboard
+- Customer Insights
+
+## Contact
+- LinkedIn: your-link
+- Email: your-email
